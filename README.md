@@ -17,4 +17,4 @@ Most of my career's code lives in employer repositories on other platforms, so w
 ## Elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/matthew-mendrala)
-- Writing: [One Funnel, Three Rails](https://www.linkedin.com/in/matthew-mendrala) and other articles on AI systems and engineering leadership
+- Writing: [One Funnel, Three Rails](https://www.linkedin.com/pulse/one-funnel-three-rails-unified-strategy-workflow-ai-matt-mendrala-w9l8c/) and other articles on AI systems and engineering leadership
