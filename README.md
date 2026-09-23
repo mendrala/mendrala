@@ -7,7 +7,7 @@ I build and lead the teams that take AI from zero to production. Most recently I
 
 ## What I'm building now
 
-- **Azimuth**: a career development platform where managers and their people build growth plans together, with AI doing the heavy lifting on research and drafting. Private while in development. Demo on request.
+- **Career Growth Canvas**: a career development platform from Viaphor where managers and their people build growth plans together, with AI doing the heavy lifting on research and drafting. Private while in development. Demo on request.
 - **Fugue**: a Laravel-first rules engine.
 
 ## About this profile
